@@ -29,16 +29,6 @@ My work spans data science, forecasting, product analytics, decision support sys
 | **Computational physics** | Dynamical systems, numerical simulation and synthetic datasets |
 | **Intelligent decision systems** | Fuzzy logic, forecasting and predictive analytics |
 
-## Featured Research
-
-### Three-Body ML & QML Benchmark
-
-A simulation-driven research project comparing classical and quantum machine learning approaches on three-body dynamical systems.
-
-**Workflow:** Numerical simulation → dataset generation → feature engineering → model benchmarking → evaluation.
-
-[Explore the project](https://github.com/ismailcanoglu1/three_body_ml_qml_benchmark)
-
 ## Skills & Technologies
 
 **Quantum & ML:** Qiskit · PennyLane · Scikit-learn · Clustering · Regression · Predictive Modeling
