@@ -101,6 +101,8 @@ and Quantum Machine Learning.
 ### 🎓 Academic Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0904--7713-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0904-7713)
+
 
 
 ## Contact
