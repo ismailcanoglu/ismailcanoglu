@@ -56,3 +56,19 @@ p{margin:0 0 1em}
 footer{padding:32px 0;color:var(--mute);font-size:14px}
 @media (max-width:760px){.grid{grid-template-columns:1fr;gap:20px}.themes,.skills{grid-template-columns:1fr}.themes div:nth-child(odd){border-right:0;margin-right:0}.tl{grid-template-columns:1fr}.hint{display:none}section{padding:64px 0}}
 @media (prefers-reduced-motion:reduce){.load{animation:none}html{scroll-behavior:auto}}
+
+/* Editorial publication layout */
+.publications-content{min-width:0}
+.publications-content>.big{max-width:29em;margin-bottom:26px}
+.academic-links{display:flex;flex-wrap:wrap;gap:18px;margin:0 0 52px}
+.academic-links a{font-size:14px;color:var(--acc);text-decoration:none;border-bottom:1px solid transparent;padding-bottom:3px}
+.academic-links a:hover{border-color:var(--acc)}
+.publications-content .section-heading{font-size:1.08rem;letter-spacing:0;margin-bottom:8px}
+.publication-list{border-top:1px solid var(--line)}
+.publication{display:grid;grid-template-columns:66px minmax(0,1fr);gap:20px;padding:24px 0;border-bottom:1px solid var(--line)}
+.pub-year{font-size:12px;letter-spacing:.04em;color:var(--mute);padding-top:5px}
+.publication h3{font-size:clamp(1rem,1.6vw,1.2rem);font-weight:500;line-height:1.45;letter-spacing:-.015em;margin:0 0 7px}
+.publication p{font-size:14px;color:var(--mute);margin:0;line-height:1.6}
+.publication .pub-venue{font-style:italic}
+.publications-content .sub{margin:42px 0 14px}
+@media(max-width:760px){header .wrap{gap:12px}.logo{font-size:14px}nav{gap:14px}nav a{font-size:13px}#theme{font-size:12px;padding:5px 9px}.publication{grid-template-columns:1fr;gap:5px;padding:20px 0}.pub-year{padding:0}.academic-links{margin-bottom:36px}}
